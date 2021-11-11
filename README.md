@@ -18,10 +18,10 @@ This project uses MYSQL, Node.js, Inquirer, and console to create a CMS (content
 
 Video Demo [videoDemo](https://watch.screencastify.com/v/NZtHVyWBrTgLUJcrIdS9/.)
 
-![Screenshpt1](./addemployee.png)
-![Screenshpt1](./dept.png)
-![Screenshpt1](./employees.png)
-![Screenshpt1](./role.png)
+![Screenshot1](./addemployee.png)
+![Screenshot1](./dept.png)
+![Screenshot1](./employees.png)
+![Screenshot1](./role.png)
 
 ----
 
